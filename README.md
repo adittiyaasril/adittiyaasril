@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adittiyaasril
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning express
+- 🌱 I’m currently learning authentication & security
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me adittiyaasril369@gmail.com
 
