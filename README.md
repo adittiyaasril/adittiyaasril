@@ -4,7 +4,7 @@
 <h3 align="center">A Full-Stack Web Developer</h3>
 
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **NextJs**
 - 📫 How to reach me **adittiyaasril@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
