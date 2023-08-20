@@ -18,4 +18,3 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adittiyaasril&show_icons=true&locale=en&layout=compact" alt="adittiyaasril" width="500" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adittiyaasril&show_icons=true&locale=en" alt="adittiyaasril" width="500" /></p>
