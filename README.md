@@ -4,7 +4,7 @@
 
 ### Tech Stack
 
-I mostly work with **JavaScript**, in the backend using **Express** , **NestJS**, and **GoLang** in the frontend using ReactJS and NextJS.
+I mostly work with **JavaScript**, in the backend using **Express** , **NestJS**, and **GoLang** in the frontend using **ReactJS** and **NextJS**.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=white&labelColor=blue)
