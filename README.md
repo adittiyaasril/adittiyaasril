@@ -20,8 +20,8 @@ I mostly work with **JavaScript**, in the backend using **Express** , **NestJS**
 
 Explore my thoughts at [adittiyaasril.site](https://adittiyaasril.site/), and let's connect on [LinkedIn](https://www.linkedin.com//in/adittiyaasril/).
 
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=adittiya&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com//in/adittiyaasril/) ![Static Badge](https://img.shields.io/badge/Adittiya-purple?logo=discord&logoColor=white&label=Discord&labelColor=blue&link=https%3A%2F%2Fdiscord.gg%2FAdittiya%20Asril%236661)
-![Static Badge](https://img.shields.io/badge/Adittiya-yellow?logo=gitlab&logoColor=white&label=GitLab&labelColor=red&link=https%3A%2F%2Fgitlab.com%2FAdittiya)
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=adittiya&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com//in/adittiyaasril/) [![Discord](https://img.shields.io/badge/Adittiya-purple?logo=discord&logoColor=white&label=Discord&labelColor=blue)](https://discord.gg/Adittiya%20Asril#6661)
+[![GitLab](https://img.shields.io/badge/Adittiya-yellow?logo=gitlab&logoColor=white&label=GitLab&labelColor=red)](https://gitlab.com/Adittiya/)
  [![GitHub followers](https://img.shields.io/github/followers/adittiyaasril.svg?label=Follow%20@adittiyaasril&style=social)](https://github.com/adittiyaasril/)
 
 
