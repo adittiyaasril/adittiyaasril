@@ -1,18 +1,28 @@
+## Hi there!👋 How are you doing?
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Salsa&size=20&pause=500&color=FFFFFF&background=000000&vCenter=true&random=false&width=440&height=30&lines=I'm+Adittiya Asril;Full-Stack+Developer+Based+in+Indonesia+📌." alt="Typing SVG" /></a>
 
 
-<h1>Hi 👋 I'm Adittiya Asril</h1>
-<h3>A Full-Stack Web Developer</h3>
+### Tech Stack
+
+I mostly work with **JavaScript**, in the backend using **Express** , **NestJS**, and **GoLang** in the frontend using ReactJS and NextJS.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=white&labelColor=blue)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![Static Badge](https://img.shields.io/badge/express-white?logo=express&logoColor=black&labelColor=white)
+![Static Badge](https://img.shields.io/badge/NestJS-red?logo=nestjs&logoColor=white&labelColor=red)
+![GoLang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+### Let's connect!
+
+Explore my thoughts at [adittiyaasril.site](https://adittiyaasril.site/), and let's connect on [LinkedIn](https://www.linkedin.com//in/adittiyaasril/).
+
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=adittiya&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com//in/adittiyaasril/) ![Static Badge](https://img.shields.io/badge/Adittiya-purple?logo=discord&logoColor=white&label=Discord&labelColor=blue&link=https%3A%2F%2Fdiscord.gg%2FAdittiya%20Asril%236661)
+![Static Badge](https://img.shields.io/badge/Adittiya-yellow?logo=gitlab&logoColor=white&label=GitLab&labelColor=red&link=https%3A%2F%2Fgitlab.com%2FAdittiya)
+ [![GitHub followers](https://img.shields.io/github/followers/adittiyaasril.svg?label=Follow%20@adittiyaasril&style=social)](https://github.com/adittiyaasril/)
 
 
-- I’m currently learning **NestJs**
-- How to reach me : **adittiyaasril@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adittiyaasril" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adittiya-asril-35470b208" height="30" width="40" /></a>
-<a href="https://discord.gg/Adittiya Asril#6661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Adittiya Asril#6661" height="30" width="40" /></a>
-</p>
-
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adittiyaasril&show_icons=true&locale=en&layout=compact" alt="adittiyaasril" width="500" /></p>
 
