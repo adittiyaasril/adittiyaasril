@@ -1,5 +1,5 @@
 ## Hi there!👋 How are you doing?
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Salsa&size=20&pause=500&color=FFFFFF&background=000000&vCenter=true&random=false&width=440&height=30&lines=I'm+Adittiya Asril;Full-Stack+Developer+Based+in+Indonesia+📌." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Salsa&size=20&pause=500&vCenter=true&random=false&width=440&height=30&lines=I'm+Adittiya Asril;Full-Stack+Developer+Based+in+Indonesia+📌." alt="Typing SVG" /></a>
 
 
 ### Tech Stack
